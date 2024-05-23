@@ -3,7 +3,11 @@
 This project displays a table of airport data with filtering and pagination functionality. It includes filters for airport types and a search bar to filter by airport names.
 
 # Project Demo
-![Project Demo](/functional_task/public/filter_airport_demo.gif)
+ 
+
+https://github.com/Snehal-Salvi/boomlive-assg/assets/125987932/133c8760-f76c-41e0-9afd-7a0de2466d36
+
+
 
 ## Installation
 
